@@ -18,6 +18,7 @@
     "cross-env": "^5.2.0",
     "express": "^4.16.3",
     "firebase": "^6.6.1",
+    "firebaseui": "^4.2.0",
     "nuxt": "^2.0.0",
     "vuefire": "^2.1.2",
     "vuetify": "^1.2.4"
